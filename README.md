@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jocksteven/jocksteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Anindya Chowdhury  
+**Backend Engineer** | *Scaling Systems & Touching Grass (Sometimes)*  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+
+
+
+
+Based out of **Kolkata 🇮🇳**, I build backend systems and tinker with side projects that spark my curiosity.  
+
+Outside work, I’m usually watching anime, catching up on manhwas, playing (and losing) **Valorant 🎮**.
+
+
+<br>
+
+</div>
+
+
+![](https://hit.yhype.me/github/profile?user_id=19756597)
